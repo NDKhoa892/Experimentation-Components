@@ -1,0 +1,417 @@
+Running on test 0
+ACCEPTED: All answers are correct
+Total running time: 4 ms
+
+Running on test 1
+ACCEPTED: All answers are correct
+Total running time: 4 ms
+
+Running on test 2
+ACCEPTED: All answers are correct
+Total running time: 9 ms
+
+Running on test 3
+ACCEPTED: All answers are correct
+Total running time: 7 ms
+
+Running on test 4
+ACCEPTED: All answers are correct
+Total running time: 5 ms
+
+Running on test 5
+ACCEPTED: All answers are correct
+Total running time: 6 ms
+
+Running on test 6
+ACCEPTED: All answers are correct
+Total running time: 11 ms
+
+Running on test 7
+ACCEPTED: All answers are correct
+Total running time: 27 ms
+
+Running on test 8
+ACCEPTED: All answers are correct
+Total running time: 18 ms
+
+Running on test 9
+ACCEPTED: All answers are correct
+Total running time: 14 ms
+
+Running on test 10
+ACCEPTED: All answers are correct
+Total running time: 23 ms
+
+Running on test 11
+ACCEPTED: All answers are correct
+Total running time: 6 ms
+
+Running on test 12
+ACCEPTED: All answers are correct
+Total running time: 4 ms
+
+Running on test 13
+ACCEPTED: All answers are correct
+Total running time: 15 ms
+
+Running on test 14
+ACCEPTED: All answers are correct
+Total running time: 7 ms
+
+Running on test 15
+ACCEPTED: All answers are correct
+Total running time: 5 ms
+
+Running on test 16
+ACCEPTED: All answers are correct
+Total running time: 16 ms
+
+Running on test 17
+ACCEPTED: All answers are correct
+Total running time: 15 ms
+
+Running on test 18
+ACCEPTED: All answers are correct
+Total running time: 7 ms
+
+Running on test 19
+ACCEPTED: All answers are correct
+Total running time: 27 ms
+
+Running on test 20
+ACCEPTED: All answers are correct
+Total running time: 9 ms
+
+Running on test 21
+ACCEPTED: All answers are correct
+Total running time: 7 ms
+
+Running on test 22
+ACCEPTED: All answers are correct
+Total running time: 12 ms
+
+Running on test 23
+ACCEPTED: All answers are correct
+Total running time: 14 ms
+
+Running on test 24
+ACCEPTED: All answers are correct
+Total running time: 14 ms
+
+Running on test 25
+ACCEPTED: All answers are correct
+Total running time: 8 ms
+
+Running on test 26
+ACCEPTED: All answers are correct
+Total running time: 10 ms
+
+Running on test 27
+ACCEPTED: All answers are correct
+Total running time: 13 ms
+
+Running on test 28
+ACCEPTED: All answers are correct
+Total running time: 9 ms
+
+Running on test 29
+ACCEPTED: All answers are correct
+Total running time: 15 ms
+
+Running on test 30
+ACCEPTED: All answers are correct
+Total running time: 10 ms
+
+Running on test 31
+ACCEPTED: All answers are correct
+Total running time: 16 ms
+
+Running on test 32
+ACCEPTED: All answers are correct
+Total running time: 16 ms
+
+Running on test 33
+ACCEPTED: All answers are correct
+Total running time: 12 ms
+
+Running on test 34
+ACCEPTED: All answers are correct
+Total running time: 9 ms
+
+Running on test 35
+ACCEPTED: All answers are correct
+Total running time: 16 ms
+
+Running on test 36
+ACCEPTED: All answers are correct
+Total running time: 7 ms
+
+Running on test 37
+ACCEPTED: All answers are correct
+Total running time: 11 ms
+
+Running on test 38
+ACCEPTED: All answers are correct
+Total running time: 11 ms
+
+Running on test 39
+ACCEPTED: All answers are correct
+Total running time: 8 ms
+
+Running on test 40
+ACCEPTED: All answers are correct
+Total running time: 10 ms
+
+Running on test 41
+ACCEPTED: All answers are correct
+Total running time: 9 ms
+
+Running on test 42
+ACCEPTED: All answers are correct
+Total running time: 11 ms
+
+Running on test 43
+ACCEPTED: All answers are correct
+Total running time: 9 ms
+
+Running on test 44
+ACCEPTED: All answers are correct
+Total running time: 17 ms
+
+Running on test 45
+ACCEPTED: All answers are correct
+Total running time: 13 ms
+
+Running on test 46
+ACCEPTED: All answers are correct
+Total running time: 12 ms
+
+Running on test 47
+ACCEPTED: All answers are correct
+Total running time: 12 ms
+
+Running on test 48
+ACCEPTED: All answers are correct
+Total running time: 25 ms
+
+Running on test 49
+ACCEPTED: All answers are correct
+Total running time: 7 ms
+
+Running on test 50
+ACCEPTED: All answers are correct
+Total running time: 12 ms
+
+Running on test 51
+ACCEPTED: All answers are correct
+Total running time: 20 ms
+
+Running on test 52
+ACCEPTED: All answers are correct
+Total running time: 13 ms
+
+Running on test 53
+ACCEPTED: All answers are correct
+Total running time: 14 ms
+
+Running on test 54
+ACCEPTED: All answers are correct
+Total running time: 13 ms
+
+Running on test 55
+ACCEPTED: All answers are correct
+Total running time: 26 ms
+
+Running on test 56
+ACCEPTED: All answers are correct
+Total running time: 5 ms
+
+Running on test 57
+ACCEPTED: All answers are correct
+Total running time: 11 ms
+
+Running on test 58
+ACCEPTED: All answers are correct
+Total running time: 14 ms
+
+Running on test 59
+ACCEPTED: All answers are correct
+Total running time: 13 ms
+
+Running on test 60
+ACCEPTED: All answers are correct
+Total running time: 84 ms
+
+Running on test 61
+ACCEPTED: All answers are correct
+Total running time: 52 ms
+
+Running on test 62
+ACCEPTED: All answers are correct
+Total running time: 96 ms
+
+Running on test 63
+ACCEPTED: All answers are correct
+Total running time: 57 ms
+
+Running on test 64
+ACCEPTED: All answers are correct
+Total running time: 77 ms
+
+Running on test 65
+ACCEPTED: All answers are correct
+Total running time: 62 ms
+
+Running on test 66
+ACCEPTED: All answers are correct
+Total running time: 60 ms
+
+Running on test 67
+ACCEPTED: All answers are correct
+Total running time: 95 ms
+
+Running on test 68
+ACCEPTED: All answers are correct
+Total running time: 50 ms
+
+Running on test 69
+ACCEPTED: All answers are correct
+Total running time: 89 ms
+
+Running on test 70
+ACCEPTED: All answers are correct
+Total running time: 43 ms
+
+Running on test 71
+ACCEPTED: All answers are correct
+Total running time: 68 ms
+
+Running on test 72
+ACCEPTED: All answers are correct
+Total running time: 62 ms
+
+Running on test 73
+ACCEPTED: All answers are correct
+Total running time: 83 ms
+
+Running on test 74
+ACCEPTED: All answers are correct
+Total running time: 77 ms
+
+Running on test 75
+ACCEPTED: All answers are correct
+Total running time: 75 ms
+
+Running on test 76
+ACCEPTED: All answers are correct
+Total running time: 65 ms
+
+Running on test 77
+ACCEPTED: All answers are correct
+Total running time: 66 ms
+
+Running on test 78
+ACCEPTED: All answers are correct
+Total running time: 76 ms
+
+Running on test 79
+ACCEPTED: All answers are correct
+Total running time: 67 ms
+
+Running on test 80
+ACCEPTED: All answers are correct
+Total running time: 528 ms
+
+Running on test 81
+ACCEPTED: All answers are correct
+Total running time: 505 ms
+
+Running on test 82
+ACCEPTED: All answers are correct
+Total running time: 568 ms
+
+Running on test 83
+ACCEPTED: All answers are correct
+Total running time: 529 ms
+
+Running on test 84
+ACCEPTED: All answers are correct
+Total running time: 438 ms
+
+Running on test 85
+ACCEPTED: All answers are correct
+Total running time: 477 ms
+
+Running on test 86
+ACCEPTED: All answers are correct
+Total running time: 426 ms
+
+Running on test 87
+ACCEPTED: All answers are correct
+Total running time: 414 ms
+
+Running on test 88
+ACCEPTED: All answers are correct
+Total running time: 446 ms
+
+Running on test 89
+ACCEPTED: All answers are correct
+Total running time: 390 ms
+
+Running on test 90
+ACCEPTED: All answers are correct
+Total running time: 383 ms
+
+Running on test 91
+ACCEPTED: All answers are correct
+Total running time: 480 ms
+
+Running on test 92
+ACCEPTED: All answers are correct
+Total running time: 403 ms
+
+Running on test 93
+ACCEPTED: All answers are correct
+Total running time: 394 ms
+
+Running on test 94
+ACCEPTED: All answers are correct
+Total running time: 487 ms
+
+Running on test 95
+ACCEPTED: All answers are correct
+Total running time: 400 ms
+
+Running on test 96
+ACCEPTED: All answers are correct
+Total running time: 392 ms
+
+Running on test 97
+ACCEPTED: All answers are correct
+Total running time: 431 ms
+
+Running on test 98
+ACCEPTED: All answers are correct
+Total running time: 410 ms
+
+Running on test 99
+ACCEPTED: All answers are correct
+Total running time: 416 ms
+
+Accepted 100/100
+Total running time over 100 tests: 11044 ms
+
+==4418== Memcheck, a memory error detector
+==4418== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==4418== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==4418== Command: ./test_runner_space
+==4418==
+==4418==
+==4418== HEAP SUMMARY:
+==4418==     in use at exit: 0 bytes in 0 blocks
+==4418==   total heap usage: 7,353,772 allocs, 7,353,772 frees, 180,009,908 bytes allocated
+==4418==
+==4418== All heap blocks were freed -- no leaks are possible
+==4418==
+==4418== For lists of detected and suppressed errors, rerun with: -s
+==4418== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
